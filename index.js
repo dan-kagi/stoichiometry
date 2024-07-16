@@ -41,7 +41,7 @@ const questions = [
       'Quais as quantidades de água e de sódio metálico devem reagir para produzir 2,5 mol de gás hidrogênio?',
     image: './public/images/chem_eq3.png',
     options: [
-      { isCorrect: true, answer: '5 mol de água e 2,5 mol de sódio' },
+      { isCorrect: true, answer: '5 mol de água e 5 mol de sódio' },
       { isCorrect: false, answer: '2,5 mol de água e 2,5 mol de sódio' },
       { isCorrect: false, answer: '5 mol de água e 0,25 mol de sódio' },
       { isCorrect: false, answer: '10 mol de água e 5 mol de sódio' },
